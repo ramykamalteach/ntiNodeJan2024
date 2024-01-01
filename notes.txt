@@ -1,0 +1,26 @@
+download nodejs + npm from
+    https://nodejs.org/en
+
+in command line (terminal)
+    node -v
+    npm -v
+
+https://code.visualstudio.com/download
+
+
+vs code ---> start project : file > open folder
+
+open terminal ---> command prompt
+
+---------------------------------------------------------------
+new nodejs project :
+    npm init -y
+
+package.json
+
+to run my code: 
+    node fileName.ext      (node app.js)
+
+----------------------------------
+comment : shift + alt + a
+
