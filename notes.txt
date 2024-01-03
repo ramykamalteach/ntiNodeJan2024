@@ -1,0 +1,8 @@
+nodemon
+    npm install -g nodemon
+    stop nodemon ctrl + c
+
+string : slice, subStr, subString, trim, toUpperCase, toLowerCase, RegExp
+
+-- homework : get primary numbers less than 100
+
