@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Ali",
+        "age": 33,
+        "address": "tanta",
+        "phone": "0100515151"
+    },
+    {
+        "name": "Emad",
+        "age": 55,
+        "address": "Alex",
+        "phone": {
+            "home": "0505485484",
+            "work": "0111108454545"
+        }
+    },
+    {
+        "name": "Gamal",
+        "age": 21,
+        "address": "Cairo"
+    }
+]

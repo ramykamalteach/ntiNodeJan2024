@@ -1,8 +1,12 @@
-nodemon
-    npm install -g nodemon
-    stop nodemon ctrl + c
+import file to our code.
 
-string : slice, subStr, subString, trim, toUpperCase, toLowerCase, RegExp
+Modules: 
+    - core (dependency)
+    - npm packages
+    - local modules
 
--- homework : get primary numbers less than 100
 
+module get date written in Arabic :
+الأحد 21 يناير 2024
+
+with employees.json  : write a module arrange employees with thier AGE and write to console
