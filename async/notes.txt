@@ -1,0 +1,18 @@
+javascript : blocking / non-blocking
+
+non-blocking operations : 
+    - timer
+    - long processing
+    - input/output operations : file, database, API
+    - Asynchronise (async)
+    - user action
+
+nodejs : V8 (blocking) - LibUV (non-blocking)
+** javascript not support multi-threading (single thread)
+
+--------------------------
+javascript handle async(non-blocking) operations :
+    - call back
+    - promise
+    - async/await
+    
