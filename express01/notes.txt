@@ -1,0 +1,29 @@
+install express
+    npm install express
+
+install node_modules
+    npm install
+
+------------------------------------------------
+Express :
+    - MEAN stack (mangoDb, Express, Angular, nodejs)
+
+    - Backend(web) server
+
+Express --> Framework
+
+Express in nodejs env :
+    - build web app :
+        - routing
+        - middleware: login, auth, authetication, ...
+        - rendering views
+        - static files: *.css, pictures, js front libs , ...
+        - handling forms
+        ..........
+    - RESTFUL services
+    - Performance & Scalability
+
+
+-------------------------------------------------
+
+localhost:3000/
